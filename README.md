@@ -1,1 +1,3 @@
 # HeartBeatCheck
+
+return "hostnastname"
