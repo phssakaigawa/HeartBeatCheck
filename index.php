@@ -1,3 +1,3 @@
 <?php
-  echo gethostname();
+  echo gethostname().PHP_EOL;
 ?>
